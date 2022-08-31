@@ -9,3 +9,9 @@ Diverse projects in the crypto field
 
 - Whale Analysis of Bitcoin, Dogecoin, and Ethereum (Full)
   - Exploring the tokenomics decentralization and trading patterns of the top 100 wealthiest holders of BTC, DOGE, and ETH
+
+- Whale Analysis of Bitcoin, Dogecoin, and Ethereum (Part 1)
+  - Exploring the tokenomics decentralization the top 100 wealthiest holders of BTC, DOGE, and ETH
+
+- Whale Analysis of Bitcoin, Dogecoin, and Ethereum (Part 2)
+  - Exploring the trading patterns of the top 100 wealthiest holders of BTC, DOGE, and ETH
